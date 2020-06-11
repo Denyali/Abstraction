@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Abstraction.AbstractClass; //Abstract Class//
-//Abstraction.Interface  //Interface
+//Abstraction.Interface  //Interface//
 
 namespace Abstraction
 {
